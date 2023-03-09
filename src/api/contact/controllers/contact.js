@@ -9,7 +9,6 @@ const { createCoreController } = require('@strapi/strapi').factories;
 module.exports = createCoreController('api::contact.contact',{
 
   async find(ctx) {
-
     const entries = await strapi.entityService.findMany('api::contact.contact', {
       populate: 'picture'
     });
