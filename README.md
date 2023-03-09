@@ -1,5 +1,4 @@
-# Website Restaurant Ochsen Beringen
-# 🚀 Backend with Strapi
+# 🚀 Backend for Restaurant Ochsen Beringen with Strapi
 
 
 <br />
